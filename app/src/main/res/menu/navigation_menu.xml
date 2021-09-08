@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/imagemPerfil"
+        android:icon="@drawable/perfil_imagem"
+        android:title="@string/perfil"   />
+
+    <item
+        android:id="@+id/menuQuestionario"
+        android:icon="@drawable/questionario"
+        android:title="@string/questionario"   />
+
+
+
+
+    <item android:title="@string/outros">
+
+        <menu>
+
+            <item
+                android:id="@+id/menuConfiguracoes"
+                android:icon="@drawable/configuracoes"
+                android:title="@string/configuracoes" />
+            <item
+                android:id="@+id/menuSobre"
+                android:icon="@drawable/sobre"
+                android:title="@string/sobre" />
+
+
+
+        </menu>
+
+    </item>
+
+
+</menu>

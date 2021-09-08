@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/imagemPerfil">
+
+    <fragment
+        android:id="@+id/imagemPerfil"
+        android:name="com.tcc.layoutgjob.PerfilFragment"
+        android:label="Perfil"
+        tools:layout="@layout/fragment_perfil" />
+    <fragment
+        android:id="@+id/menuConfiguracoes"
+        android:name="com.tcc.layoutgjob.ConfiguracoesFragment"
+        android:label="Configuracoes"
+        tools:layout="@layout/fragment_configuracoes" />
+    <fragment
+        android:id="@+id/menuQuestionario"
+        android:name="com.tcc.layoutgjob.QuestionarioFragment"
+        android:label="Questionário"
+        tools:layout="@layout/fragment_questionario" />
+    <fragment
+        android:id="@+id/menuSobre"
+        android:name="com.tcc.layoutgjob.SobreFragment"
+        android:label="Sobre"
+        tools:layout="@layout/fragment_sobre" />
+</navigation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aluno/Desktop/thalis/GJob/GJob/app/src/main/res/layout/activity_main.xml" value="0.27309782608695654" />
+        <entry key="..\:/Users/aluno/Desktop/thalis/GJob/GJob/app/src/main/res/layout/fragment_configuracoes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aluno/Desktop/thalis/GJob/GJob/app/src/main/res/menu/navigation_menu.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/aluno/Downloads/TCC_Gjob/GJob/GJob/GJob/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+        <entry key="..\:/Users/aluno/Downloads/TCC_Gjob/GJob/GJob/GJob/app/src/main/res/layout/activity_splash1.xml" value="0.33" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/drawable/ic_launcher_background.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/drawable/ic_menu.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/layout/fragment_configuracoes.xml" value="0.5" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/layout/fragment_perfil.xml" value="0.67" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/layout/fragment_questionario.xml" value="0.75" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/layout/fragment_sobre.xml" value="0.67" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/layout/layout_navigation_header.xml" value="0.5" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/GJob/app/src/main/res/menu/navigation_menu.xml" value="0.33" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/aluno/ThalisPROJETOS/app/src/main/res/menu/navigation_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
